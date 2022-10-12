@@ -14,7 +14,7 @@ jobs:
           username: 12003586
           password: ${{ secrets.GITHUB_TOKEN }}
           registry: docker.pkg.github.com
-          repository: 12003586/12003586/iot-tutorial/
+          repository: 12003586/iot-tutorial/tutorial
           tag_with_sha: true
 
         
